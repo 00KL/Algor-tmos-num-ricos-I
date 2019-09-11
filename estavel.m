@@ -1,7 +1,6 @@
 clc;
 Ik = 0.05;
 k = 19;
-n = 20;
 
 format long
 
@@ -12,7 +11,6 @@ while (k > 9)
   k--;
 endwhile
 Ik
-
 
 disp("\nI(19) = 0.00")
 Ik = 0;
